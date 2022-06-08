@@ -1,5 +1,5 @@
 <h1 align="center">NOTFLIX</h1>
-Notflix is a shell script to search and stream torrent. from [@Bugswriter](https://github.com/Bugswriter/notflix)
+Notflix is a shell script to search and stream torrent. from [Bugswriter](https://github.com/Bugswriter/notflix)
 
 ### How does this work?
 
